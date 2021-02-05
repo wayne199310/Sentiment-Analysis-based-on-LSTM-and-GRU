@@ -1,4 +1,4 @@
-# Sentiment-Analysis-based-on-LSTM-and-GRU-Deep Learning
+# Sentiment-Analysis-based-on-LSTM-and-GRU
 
 Chinese articles sentement analysis.
 LSTM and GRU are the model of classify positive or negative.
