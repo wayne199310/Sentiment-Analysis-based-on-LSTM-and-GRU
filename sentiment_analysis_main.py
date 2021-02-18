@@ -324,9 +324,8 @@ def predictResult(model,text):
     predition = sentiment_tag[predicted.argmax()]
     return predition, probab
 
-'''
 
-'''
+
 #---------------------------------------------------------------------------------
 def movie_score(
         movie2,model,sentiment_tag,keyword = ['復仇者','復'],article_type = ''):
